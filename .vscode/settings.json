@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/*.db*": true,
+        "**/bin": true,
+        "**/obj": true
+    }
+}
